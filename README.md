@@ -10,7 +10,7 @@ Just pure **NumPy**, manual **forward pass**, **backpropagation**, **softmax**, 
 
 ---
 
-## 🚀 Features
+## Features
 
 -  Neural Network implemented **100% from scratch**
 -  Forward Propagation + Backpropagation + Gradient Descent
